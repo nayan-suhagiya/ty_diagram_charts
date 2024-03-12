@@ -1,0 +1,209 @@
+<mxfile host="65bd71144e">
+    <diagram id="-fHyhqpZ8_u2xlq3Ijx3" name="Page-1">
+        <mxGraphModel dx="1164" dy="1202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;OFFICE&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;MANAGEMENT&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;SYSTEM&lt;/font&gt;&lt;/h1&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="318" y="489" width="190" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="61" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="8" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;h3&gt;STAFF/EMPLOYEE&lt;/h3&gt;" style="html=1;dashed=0;whitespace=wrap;fontFamily=Verdana;fontSize=20;gradientColor=#7ea6e0;fillColor=#dae8fc;labelBackgroundColor=none;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="261" y="20" width="304.75" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="9" target="3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="413.375" y="940" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="&lt;h3&gt;OFFICE ADMIN&lt;/h3&gt;" style="html=1;dashed=0;whitespace=wrap;fontFamily=Verdana;fontSize=20;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="261" y="1040" width="304.75" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;strokeColor=#000000;" parent="1" source="9" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="40" y="1110" as="sourcePoint"/>
+                        <mxPoint x="320" y="590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="60" y="1090"/>
+                            <mxPoint x="60" y="840"/>
+                            <mxPoint x="60" y="590"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;entryX=0.039;entryY=0.707;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;" parent="1" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="1070" as="sourcePoint"/>
+                        <mxPoint x="250" y="660" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="110" y="1070"/>
+                            <mxPoint x="110" y="623"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;entryX=0;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" parent="1" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="1050" as="sourcePoint"/>
+                        <mxPoint x="330" y="670" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="1050"/>
+                            <mxPoint x="160" y="651"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;entryX=0.011;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;" parent="1" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="1130" as="sourcePoint"/>
+                        <mxPoint x="210" y="419" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="10" y="1130"/>
+                            <mxPoint x="10" y="562"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" value="Add Department Detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="31" y="810" width="287" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Add staff details(send credentials)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-51.5" y="830" width="350" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Manage staff salary" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-70" y="810" width="287" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Manage Leave Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-120" y="810" width="287" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;entryX=1;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" parent="1" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="1050" as="sourcePoint"/>
+                        <mxPoint x="826.824855787278" y="650.1751442127222" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="660" y="1050"/>
+                            <mxPoint x="660" y="651"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="30" value="Check the staff attendance details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="830" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;fontColor=#000000;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="1067" as="sourcePoint"/>
+                        <mxPoint x="500" y="620" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="710" y="1067"/>
+                            <mxPoint x="710" y="620"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="32" value="Check the staff work details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="508" y="820" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;strokeColor=#000000;" parent="1" source="9" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="961.0000000000002" y="1084" as="sourcePoint"/>
+                        <mxPoint x="1020" y="584" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="760" y="1090"/>
+                            <mxPoint x="760" y="834"/>
+                            <mxPoint x="760" y="584"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="Add office off days(Leave days)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="560" y="820" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;entryX=0.977;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;" parent="1" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="1129" as="sourcePoint"/>
+                        <mxPoint x="1120.0900000000001" y="561.1499999999999" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="810" y="1129"/>
+                            <mxPoint x="810" y="561"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="Update the admin password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="820" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.077;entryY=0.246;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;labelBorderColor=none;strokeColor=#000000;" parent="1" source="8" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="190" y="140" as="sourcePoint"/>
+                        <mxPoint x="620" y="380" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="80" y="70"/>
+                            <mxPoint x="80" y="536"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;entryX=0.221;entryY=0.111;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;" parent="1" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="100" as="sourcePoint"/>
+                        <mxPoint x="405.824855787278" y="546.824855787278" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="140" y="100"/>
+                            <mxPoint x="140" y="510"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;fontColor=#000000;strokeColor=#000000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="100" as="sourcePoint"/>
+                        <mxPoint x="470" y="510" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="670" y="100"/>
+                            <mxPoint x="670" y="510"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.905;entryY=0.246;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;strokeColor=#000000;" parent="1" source="8" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="908.3700000000002" y="70" as="sourcePoint"/>
+                        <mxPoint x="979.9999999999999" y="535.74" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="727.37" y="70"/>
+                            <mxPoint x="727.37" y="536"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;exitX=0.129;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#000000;strokeColor=#000000;" parent="1" source="8" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="370" y="130" as="sourcePoint"/>
+                        <mxPoint x="370" y="500" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="" style="endArrow=classic;html=1;fontFamily=Verdana;fontSize=20;exitX=0.841;exitY=1.036;exitDx=0;exitDy=0;entryX=0.734;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;fontColor=#000000;strokeColor=#000000;" parent="1" source="8" target="3" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="457.8750000000002" y="120" as="sourcePoint"/>
+                        <mxPoint x="457.5" y="489" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="Check in and check out for attendance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-31.5" y="290" width="390" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="See the attendance details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="280" width="287" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="Apply for the leave and also see the leave history" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="290" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="View salary details,download and print the salary slips" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="290" width="370" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Add work details" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=79.5;aspect=fixed;direction=east;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="290" width="290" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="Profile update" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=100;aspect=fixed;direction=east;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="290" width="290" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="Login staff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;aspect=fixed;direction=east;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="250" width="193.33" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="Admin login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;rotation=90;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="840" width="287" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
